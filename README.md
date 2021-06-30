@@ -18,7 +18,7 @@ I have created this blog website as practice an it is hosted at : https://adi-bl
                     -EJS
                     -lodash
  ## HOME PAGE
- [[https://github.com/adimishrax7x/A-Daily-Blog-Website/blob/master/Screenshot%20(499).png]]
+ [https://github.com/adimishrax7x/A-Daily-Blog-Website/blob/master/Screenshot%20(499).png]
  
  # About & Contact pages 
  [[https://github.com/adimishrax7x/A-Daily-Blog-Website/blob/master/Screenshot%20(500).png]]
