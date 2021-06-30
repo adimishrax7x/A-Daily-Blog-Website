@@ -17,20 +17,9 @@ I have created this blog website as practice an it is hosted at : https://adi-bl
                     -bodyParser
                     -EJS
                     -lodash
- ## HOME PAGE
- https://github.com/adimishrax7x/A-Daily-Blog-Website/blob/master/Screenshot%20(499).png
  
- # About & Contact pages 
- https://github.com/adimishrax7x/A-Daily-Blog-Website/blob/master/Screenshot%20(500).png
- https://github.com/adimishrax7x/A-Daily-Blog-Website/blob/master/Screenshot%20(501).png
- 
- # Compose page : https://adi-blogwebsite.herokuapp.com/compose
- https://github.com/adimishrax7x/A-Daily-Blog-Website/blob/master/Screenshot%20(502).png
- 
- # on clicking Read More 
- https://github.com/adimishrax7x/A-Daily-Blog-Website/blob/master/Screenshot%20(503).png
- 
- 
+ # Compose page : https://adi-blogwebsite.herokuapp.com/compose 
+
  
  
  {This is a practice project so I am yet to learn a lot }
