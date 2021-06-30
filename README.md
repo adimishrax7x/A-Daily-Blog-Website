@@ -5,7 +5,7 @@ These weblogs allowed early internet users to "log" the details of their day in 
 Blogs often allow readers to comment, so as they became more common, communities sprung up around popular blogs.
 
 
-I have created this blog website as practice an it is hosted at : https://adi-blogwebsite.herokuapp.com/
+I have created this blog website as practice for BACK END DEV an it is hosted at : https://adi-blogwebsite.herokuapp.com/
 
 # TOOLS USED :
 
