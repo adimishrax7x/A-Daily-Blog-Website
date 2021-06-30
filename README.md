@@ -33,4 +33,4 @@ I have created this blog website as practice an it is hosted at : https://adi-bl
  
  
  
- {This is a practice project so I am ye to learn a lot }
+ {This is a practice project so I am yet to learn a lot }
